@@ -1,20 +1,22 @@
 {
     "data":[
         {
-            "policy_id":"5",
+            "policy_id":5,
             "policy_name":"Office Trip",
-            "policy_type":"5",
-            "policy_status":"1",
-            "policy_transaction_limit":"10000.00",
-            "created_at":"yyyy-mm-dd hh:mm:ss"
+            "policy_type":5,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
         },
         {
-            "policy_id":"6",
+            "policy_id":6,
             "policy_name":"Office Marketing",
-            "policy_type":"5",
-            "policy_status":"1",
-            "policy_transaction_limit":"10000.00",
-            "created_at":"yyyy-mm-dd hh:mm:ss"
+            "policy_type":5,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
         }
     ],
     "meta":{
