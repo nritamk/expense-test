@@ -1,9 +1,45 @@
 {
     "data":[
         {
+            "policy_id":1,
+            "policy_name":"Office Trip",
+            "policy_type":1,
+            "policy_status":2,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+        {
+            "policy_id":2,
+            "policy_name":"Office Marketing",
+            "policy_type":2,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+         {
+            "policy_id":3,
+            "policy_name":"Office Trip",
+            "policy_type":3,
+            "policy_status":2,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+        {
+            "policy_id":4,
+            "policy_name":"Office Marketing",
+            "policy_type":4,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+         {
             "policy_id":5,
             "policy_name":"Office Trip",
-            "policy_type":5,
+            "policy_type":1,
             "policy_status":2,
             "policy_transaction_limit":10000.00,
             "created_at":"yyyy-mm-dd hh:mm:ss",
@@ -12,7 +48,61 @@
         {
             "policy_id":6,
             "policy_name":"Office Marketing",
-            "policy_type":5,
+            "policy_type":2,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+         {
+            "policy_id":7,
+            "policy_name":"Office Trip",
+            "policy_type":3,
+            "policy_status":2,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+        {
+            "policy_id":8,
+            "policy_name":"Office Marketing",
+            "policy_type":4,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+         {
+            "policy_id":9,
+            "policy_name":"Office Marketing",
+            "policy_type":1,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+         {
+            "policy_id":10,
+            "policy_name":"Office Marketing",
+            "policy_type":2,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+         {
+            "policy_id":11,
+            "policy_name":"Office Marketing",
+            "policy_type":3,
+            "policy_status":1,
+            "policy_transaction_limit":10000.00,
+            "created_at":"yyyy-mm-dd hh:mm:ss",
+            "policy_description":"In case of Default Approval Policy, the team member expenses will be approved/rejected and can further go ahead"
+        },
+         {
+            "policy_id":12,
+            "policy_name":"Office Marketing",
+            "policy_type":4,
             "policy_status":1,
             "policy_transaction_limit":10000.00,
             "created_at":"yyyy-mm-dd hh:mm:ss",
@@ -21,11 +111,11 @@
     ],
     "meta":{
     "pagination": {
-        "total": 976,
-        "count": 15,
-        "per_page": 15,
+        "total": 12,
+        "count": 8,
+        "per_page": 8,
         "current_page": 1,
-        "total_pages": 66,
+        "total_pages": 2,
         "links": {
             "next": "https://v2-api.bankopen.co/v2/invoices?accounts_id=59254&companies_id=59256&orderByColumns=invoices_id%3ADESC%2Cstart_date%3ADESC&invoice_types_id=1%3A9%3A31%3A35%3A39&users_id=1660584&page=2"
         }
